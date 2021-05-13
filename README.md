@@ -1,4 +1,4 @@
-# Udacity-Data-Science-Project1
+# Udacity Data Science Project1
 > This project uses the cross industry standard process for data mining (CRISP-DM) to analyze Boston Airbnb data set from 2016-2017.
 
 
@@ -18,11 +18,11 @@
 
 ## General Information
 - Motivation: Interested in learning more about nightly price influences and trends in Boston Airbnb market
-- Project seeks to answer questions:
--- What percentage of hosts are superhosts?
--- How does the average nightly price vary by the number of bedrooms?
--- How does the average nightly price vary by neighborhood?
--- Can the average nightly price be predicted based on certain variables?
+Project seeks to answer questions:
+- What percentage of hosts are superhosts?
+- How does the average nightly price vary by the number of bedrooms?
+- How does the average nightly price vary by neighborhood?
+- Can the average nightly price be predicted based on certain variables?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
