@@ -19,10 +19,10 @@
 ## General Information
 - Motivation: Interested in learning more about nightly price influences and trends in Boston Airbnb market
 - Project seeks to answer questions:
-a) What percentage of hosts are superhosts?
-b) How does the average nightly price vary by the number of bedrooms?
-c) How does the average nightly price vary by neighborhood?
-d) Can the average nightly price be predicted based on certain variables?
+-- What percentage of hosts are superhosts?
+-- How does the average nightly price vary by the number of bedrooms?
+-- How does the average nightly price vary by neighborhood?
+-- Can the average nightly price be predicted based on certain variables?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -32,7 +32,6 @@ d) Can the average nightly price be predicted based on certain variables?
 
 
 ## Features
-List the ready features here:
 - Visualizations
 - Linear Regression Machine Learning Algorithm
 
@@ -42,12 +41,10 @@ Anaconda Distribution
 
 
 ## Project Status
-Project is: complete
+Complete
 
 
 ## Room for Improvement
-
-Room for improvement:
 - Machine Learning model input variables
 - Machine Learning model fitting
 
