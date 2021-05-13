@@ -1,9 +1,6 @@
-# Udacity-Project-1
-Using the cross industry standard process for data mining (CRISP-DM) to analyze Boston Airbnb data set. Script includes all code and visualizations used to answer questions regarding average nightly listing price.
-
 # Udacity-Data-Science-Project1
 > This project uses the cross industry standard process for data mining (CRISP-DM) to analyze Boston Airbnb data set from 2016-2017.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
 
 ## Table of Contents
 * [General Info](#general-information)
