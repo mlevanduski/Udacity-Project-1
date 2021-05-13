@@ -18,7 +18,7 @@
 
 ## General Information
 - Motivation: Interested in learning more about nightly price influences and trends in Boston Airbnb market
-Project seeks to answer questions:
+- Project seeks to answer questions:
 - What percentage of hosts are superhosts?
 - How does the average nightly price vary by the number of bedrooms?
 - How does the average nightly price vary by neighborhood?
