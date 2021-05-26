@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Files](#files)
 * [Technologies Used](#technologies-used)
 * [Libraries Used](#libraries-used)
 * [Features](#features)
@@ -25,6 +26,9 @@
 - Can the average nightly price be predicted based on certain variables?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+
+## Files
+- Project1.ipynb - Jupyter notebook file that houses all code used in analysis
 
 ## Technologies Used
 - Python3
