@@ -5,11 +5,13 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Libraries Used](#libraries-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
+* [Conclusion](#conclusion)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -31,6 +33,13 @@
 - JupyterLab - version 2.1.5
 
 
+## Libraries Used
+- Pandas
+- Sklearn
+- Matplotlib.pyplot
+- Seaborn
+
+
 ## Features
 - Visualizations
 - Linear Regression Machine Learning Algorithm
@@ -42,6 +51,12 @@ Anaconda Distribution
 
 ## Project Status
 Complete
+
+
+## Conclusion
+The results of the data exploration and machine learning model indicated that the number of bedrooms most strongly influenced the average nightly price of airbnb listings in Boston. 
+
+To read more please view the associated medium blog: https://mlevanduski3.medium.com/2016-2017-boston-airbnb-findings-51dc5b40a917
 
 
 ## Room for Improvement
